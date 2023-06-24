@@ -1,0 +1,2 @@
+# Movie-Recommendation-System-using-Collaborative-Filtering
+Movie Recommendation System using Collaborative Filtering. The goal of the project is to create a personalized recommendation system that suggests movies to users based on their preferences and viewing history. The system should analyze user ratings, movie genres, and other relevant features to generate accurate and personalized recommendations.
